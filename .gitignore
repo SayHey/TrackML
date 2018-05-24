@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TrackML/TrackML/Scripts
+/TrackML/TrackML/pyvenv.cfg
+/TrackML/TrackML/Lib/tcl8.6
+/.vs/TrackML/v15/.suo
+/.vs/TrackML/v15
