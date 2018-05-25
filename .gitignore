@@ -7,3 +7,5 @@
 /TrackML/TrackML/Lib/tcl8.6
 /.vs/TrackML/v15/.suo
 /.vs/TrackML/v15
+/Data
+/Notebooks/.ipynb_checkpoints
