@@ -9,3 +9,4 @@
 /.vs/TrackML/v15
 /Data
 /Notebooks/.ipynb_checkpoints
+/TrackML/__pycache__

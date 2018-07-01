@@ -22,6 +22,15 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="clusterer.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="data.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="feature_extraction.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="TrackML.py" />
   </ItemGroup>
   <ItemGroup>
